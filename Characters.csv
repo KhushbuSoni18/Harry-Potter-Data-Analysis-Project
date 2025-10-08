@@ -1,0 +1,140 @@
+﻿ID,Name,Gender,Job,House,Wand,Patronus,Species,Blood_Status,Hair_Color,Eye_Color
+1,Harry James Potter,Male,Student,Gryffindor,Holly  phoenix feather,Stag,Human,Half-blood,Black,Bright green
+2,Ronald Bilius Weasley,Male,Student,Gryffindor,Ash unicorn tail hair,Jack Russell terrier,Human,Pure-blood,Red,Blue
+3,Hermione Jean Granger,Female,Student,Gryffindor,vine wood dragon heartstring,Otter,Human,Muggle-born,Brown,Brown
+4,Albus Percival Wulfric Brian Dumbledore,Male,Headmaster,Gryffindor,Elder Thestral tail hair core,Phoenix,Human,Half-blood,Silver| formerly auburn,Blue
+5,Rubeus Hagrid,Male,Keeper of Keys and Grounds | Professor of Care of Magical Creatures ,Gryffindor,Oak unknown core,None,Half-Human/Half-Giant,Part-Human (Half-giant),Black,Black
+6,Neville Longbottom,Male,Student,Gryffindor,Cherry unicorn hair,Non-corporeal,Human,Pure-blood,Blond,Unknown 
+7,Fred Weasley,Male,Student,Gryffindor,Unknown ,Unknown,Human,Pure-blood,Red,Brown
+8,George Weasley,Male,Student,Gryffindor,Unknown ,Unknown,Human,Pure-blood,Red,Brown
+9,Ginevra (Ginny) Molly Weasley,Female,Student,Gryffindor,Unknown ,Horse,Human,Pure-blood,Red,Bright brown
+10,Dean Thomas,Male,Student,Gryffindor,Unknown ,Unknown,Human,Muggle-born,Black,Brown
+11,Seamus Finnigan,Male,Student,Gryffindor,Unknown ,Fox,Human,Half-blood,Sandy,Unknown 
+12,Lily J. Potter,Female,Unknown ,Gryffindor,Willow  unknown core,Doe,Human,Muggle-born,Auburn,Bright green
+13,James Potter,Male,Unknown ,Gryffindor,Mahogany  unknown core,Stag,Human,Pure-blood,Black,Hazel
+14,Sirius Black,Male,Unknown ,Gryffindor,Unknown ,Unknown,Human,Pure-blood,Black,Grey
+15,Remus John Lupin,Male,Professor of Defence Against the Dark Arts ,Gryffindor,Cypress unicorn hair,Wolf,Werewolf,Half-blood,Light brown flecked with grey,Green
+16,Peter Pettigrew,Male,The Servant of Lord Voldemort,Gryffindor,Chestnut dragon heartstring,None,Human,Half-blood or pure-blood,Colourless and balding,Blue
+17,Percy Ignatius Weasley,Male,Student|Prefect|  Personal assistant to Barty Crouch Snr ,Gryffindor,Unknown ,Unknown,Human,Pure-blood,Red,Blue
+18,(Bill) William Arthur Weasley,Male,Curse-Breaker for Gringotts Bank,Gryffindor,Unknown ,Unknown,Human (Werewolf traits),Pure-blood,Red,Blue
+19,Charles Weasley,Male,Dragonologist,Gryffindor,Ash unicorn tail hair,Unknown,Human,Pure-blood,Red,Grey
+20,Lee Jordan ,Male,Student,Gryffindor,Unknown ,Unknown,Human,Pure-blood or half-blood,Black,Brown
+21,Oliver Wood,Male,Student,Gryffindor,Unknown ,Unknown,Human,Pure-blood or Half-blood,Unknown ,Unknown 
+22,Angelina Johnson,Female,Student,Gryffindor,Unknown ,Unknown,Human,Unknown,Brown,Brown
+23,Katie Bell,Female,Student,Gryffindor,Unknown ,Unknown,Human,Pure-blood or half-blood,Brown,Brown
+24,Alicia Spinnet,Female,Student,Gryffindor,Unknown ,Unknown,Human,Pure-blood or half-blood,Brown,Brown
+25,Lavender Brown,Female,Student,Gryffindor,Unknown ,Unknown,Human,Pure-blood,Blond,Blue
+26,Parvati Patil,Female,Student,Gryffindor,Unknown ,Unknown,Human,Pure-blood or half-blood,Dark,Dark
+27,Romilda Vane,Female,Student,Gryffindor,Unknown ,Unknown,Human,Pure-blood or half-blood,Black,Dark
+28,Colin Creevey,Male,Student,Gryffindor,Unknown ,Unknown,Human,Muggle-born,Mousy,Unknown 
+29,Cormac McLaggen,Male,Student,Gryffindor,Unknown ,Unknown,Human,Pure-blood or half-blood,Blond,Unknown 
+30,Minerva McGonagall,Female,Professor of Transfiguration | Head of Gryffindor,Gryffindor,Fir dragon heartstring,Cat,Human,Half-blood,Black,Green
+31,Molly Weasley,Female,Unknown ,Gryffindor,Unknown ,Unknown,Human,Pure-blood,Red,Bright brown
+32,Arthur Weasley,Male,Head of the Misuse of Muggle Artefacts Office,Gryffindor,Unknown ,Weasel,Human,Pure-blood,Red,Green
+33,Quirinus Quirrell,Male,Defence Against the Dark Arts(1991-1992),Ravenclaw,Alder unicorn hair bendy,Non-corporeal,Human,Half-blood,Unknown ,Unknown 
+34,Cho Chang,Female,Student,Ravenclaw,Unknown ,Swan,Human,Pure-blood or half-blood,Black,Dark
+35,Luna Lovegood,Female,Student,Ravenclaw,Unknown ,Hare,Human,Pure-blood or half-blood,Dirty-blonde,Pale silvery
+36,Gilderoy Lockhart,Male,Defence Against the Dark Arts(1992-1993),Ravenclaw,Cherry dragon heartstring,Non-corporeal,Human,Half-blood,Blond,Blue
+37,Filius Flitwick,Male,Professor of Charms | Head of Ravenclaw,Ravenclaw,Unknown ,Non-corporeal,Human(goblin ancestry),Part-Goblin,White,Unknown 
+38,Sybill Patricia Trelawney,Female,Professor of Divination,Ravenclaw,Unknown ,Non-corporeal,Human,Half-blood,Unknown ,Unknown 
+39,Garrick Ollivander,Male,Wandmaker,Ravenclaw,Hornbeam dragon heartstring,Non-corporeal,Human,Half-blood,Unknown ,Silvery
+40,Myrtle Elizabeth Warren (Moaning Myrtle),Female,Student,Ravenclaw,Unknown ,Unknown,Ghost,Muggle-born,Unknown ,Unknown 
+41,Padma Patil,Female,Student,Ravenclaw,Unknown ,Non-corporeal,Human,Pure-blood or half-blood,Dark,Dark
+42,Michael Corner,Male,Student,Ravenclaw,Unknown ,Squirrel,Human,Half-blood,Black,Brown
+43,Marietta Edgecombe,Female,Student,Ravenclaw,Unknown ,Unknown,Human,Pure-blood or half-blood,Reddish-blonde,Grey
+44,Terry Boot,Male,Student,Ravenclaw,Unknown ,Unknown,Human,Pure-blood or half-blood,Unknown ,Unknown 
+45,Anthony Goldstein,Male,Student,Ravenclaw,Unknown ,Non-corporeal,Human,Half-blood,Blonde,Grey
+46,Severus Snape,Male,Professor of Potions | Head of Slytherin,Slytherin,Unknown ,Doe,Human,Half-blood,Black,Black
+47,Draco Malfoy,Male,Student,Slytherin,Hawthorn unicorn hair,Unknown,Human,Pure-blood,White-blond,Grey
+48,Vincent Crabbe,Male,Student,Slytherin,Unknown ,Unknown,Human,Pure-blood,Black,Black
+49,Gregory Goyle,Male,Student,Slytherin,Unknown ,Unknown,Human,Pure-blood,Brown,Unknown 
+50,Bellatrix Lestrange,Female,Unknown ,Slytherin,Walnut dragon heartstring,Unknown ,Human,Pure-blood,Black,Unknown 
+51,Dolores Jane Umbridge,Female,Professor of Defence Against the Dark Arts | Department of Magical Law Enforcement,Slytherin,Birch dragon heartstring,Cat,Human,Half-blood,Iron grey,Unknown 
+52,Horace Eugene Flaccus Slughorn,Unknown ,Professor of Potions ,Slytherin,Cedar dragon heartstring fairly flexible,Non-corporeal,Human,Pure-blood or half-blood,Bald,Gooseberry
+53,Lucius Malfoy,Male,School Governor,Slytherin,Unknown ,Unknown,Human,Pure-blood,White-blond,Grey
+54,Narcissa Malfoy,Female,Unknown ,Slytherin,Unknown ,Unknown,Human,Pure-blood,Blonde,Blue
+55,Regulus Arcturus Black,Male,Unknown ,Slytherin,Unknown ,Non-corporeal,Human,Pure-blood,Black,Unknown 
+56,Pansy Parkinson,Female,Student,Slytherin,Unknown ,Unknown,Human,Pure-blood or half-blood,Unknown ,Unknown 
+57,Blaise Zabini,Male,Student,Slytherin,Unknown ,Unknown,Human,Pure-blood or half-blood,Black,Brown
+58,Tom Marvolo Riddle,Male,Student,Slytherin,Yew phoenix feather core,Unknown,Human,Half-blood,Bald,Scarlet 
+59,Theodore Nott,Male,Student,Slytherin,Unknown ,Unknown,Human,Pure-blood,Brown,Unknown 
+60,Rodolphus Lestrange,Male,Unknown ,Slytherin,Unknown ,Unknown,Human,Pure-blood,Dark,Dark
+61,Millicent Bulstrode,Female,Student,Slytherin,Unknown ,Unknown,Human,Half-blood,Black,Unknown 
+62,Graham Montague,Male,Student,Slytherin,Unknown ,Unknown,Human,Pure-blood or half-blood,Brown,Brown
+63,Bloody Baron,Male,Slytherin House Ghost,Slytherin,Unknown ,Unknown,Ghost,Pure-blood or half-blood,Unknown ,Unknown 
+64,Marcus Flint,Male,Student,Slytherin,Unknown ,Unknown,Human,Pure-blood or half-blood,Black,Unknown 
+65,Penelope Clearwater,Female,Student,Ravenclaw,Unknown ,Non-corporeal,Human,Muggle-born or half-blood[,Blonde,Unknown 
+66,Roger Davies,Male,Student,Ravenclaw,Unknown ,Unknown,Human,Unknown ,Dark,Dark
+67,Marcus Belby,Male,Student,Ravenclaw,Unknown ,Unknown,Human,Pure-blood or half-blood,Brown,Dark
+68,Salazar Slytherin,Male,Founder of Slytherin,Slytherin,Unknown ,Unknown ,Unknown ,Unknown ,Unknown ,Unknown 
+69,Godric Gryffindor,Male,Founder of Gryffindor,Gryffindor,Unknown ,Unknown,Human,Pure-blood or half-blood,Red,Green
+70,Rowena Ravenclaw,Female,Founder of Ravenclaw,Ravenclaw,Unknown ,Unknown,Human,Pure-blood or half-blood,Black,Dark
+71,Nicholas de Mimsy-Porpington,Male,Gryffindor House Ghost,Gryffindor,Unknown ,Unknown,Ghost,Unknown ,Grey,Unknown 
+72,Cuthbert Binns,Male,Professor of History of Magic ,Unknown ,Unknown ,Unknown,Ghost,Unknown ,White (balding),Black
+73,Barty Crouch Jr.,Male,Professor of Defence Against the Dark Arts (as Alastor Moody) ,Unknown ,Unknown ,Unknown,Human,Pure-blood or half-blood,Straw blond,Pale
+74,Charity Burbage,Female,Professor of Muggle Studies,Unknown ,Unknown ,Non-corporeal,Human,Pure-blood or half-blood,Blonde,Unknown 
+75,Firenze,Male,Professor of Divination,Unknown ,Unknown ,Unknown ,Centaur,Unknown ,White-blond,Astonishingly blue
+76,Alecto Carrow,Female,Professor of Muggle Studies,Slytherin,Unknown ,Unknown,Human,Pure-blood or half-blood,Unknown ,Unknown 
+77,Amycus Carrow,Male,Professor of Dark Arts,Slytherin,Unknown ,Unknown,Human,Pure-blood or half-blood,Unknown ,Unknown 
+78,Helga Hufflepuff,Female,Founder of Hufflepuff,Hufflepuff,Unknown ,Unknown,Human,Pure-blood or half-blood,Brown,Blue
+79,Fat Friar,Male,Hufflepuff House Ghost,Hufflepuff,Unknown ,Unknown,Ghost,Unknown ,Brown,Unknown 
+80,Helena Ravenclaw,Female,Ravenclaw House Ghost,Ravenclaw,Unknown ,Unknown,Ghost,Pure-blood or half-blood,Black,Grey
+81,Nymphadora Tonks,Female,Auror,Hufflepuff,Unknown ,Jack rabbit,Unknown ,Unknown ,Unknown ,Unknown 
+82,Pomona Sprout,Female,Professor of Herbology | Head of Hufflepuff House,Hufflepuff,Unknown ,Non-corporeal,Human,Pure-blood or half-blood,Unknown ,Grey
+83,Newton Scamander,Male,Employee in the Beast Division of the Department for the Regulation and Control of Magical Creatures,Hufflepuff,Unknown ,Unknown,Human,Pure-blood or half-blood,Red brown,Blue
+84,Cedric Diggory,Male,Student,Hufflepuff,Unknown ,Unknown ,Unknown ,Unknown ,Unknown ,Unknown 
+85,Justin Finch-Fletchley,Male,Student,Hufflepuff,Unknown ,Non-corporeal,Human,Muggle-born,Red,Unknown 
+86,Zacharias Smith,Male,Student,Hufflepuff,Unknown ,Unknown,Human,Pure-blood or half-blood,Blonde,Unknown 
+87,Hannah Abbott,Female,Student,Hufflepuff,Unknown ,Non-corporeal,Human,Half-blood,Blonde,Brown
+88,Ernest Macmillan,Male,Student,Hufflepuff,Unknown ,Boar,Human,Pure-blood,Blond,Unknown 
+89,Susan Bones,Female,Student,Hufflepuff,Unknown ,Unknown,Human,Half-blood,Unknown ,Unknown 
+90,Walden Macnair,Male,Executioner for the Committee for the Disposal of Dangerous Creatures,Slytherin,Unknown ,Unknown,Human,Pure-blood or half-blood,Black,Unknown 
+91,Augustus Rookwood,Male,Unspeakable,Slytherin,Unknown ,None,Human,Pure-blood or half-blood,Brown/greying,Unknown 
+92,Antonin Dolohov,Male,Death Eater,Slytherin,Unknown ,None,Human,Pure-blood or Half-blood,Dark,Unknown 
+93,Corban Yaxley,Male,Head of the Department of Magical Law Enforcement,Slytherin,Unknown ,None,Human,Pure-blood or Half-blood,Blonde,Blue
+94,Igor Karkaroff,Male,Headmaster of Durmstrang Institute,Unknown ,Unknown ,None,Human,Pure-blood or Half-blood,Silver| formerly black,Unknown 
+95,Kingsley Shacklebolt,Male,Auror  | Minister for Magic,Unknown ,Unknown ,Lynx,Human,Pure-blood,Bald,Black
+96,Alastor Moody,Male,Auror ,Unknown ,Unknown ,Non-corporeal,Human,Pure-blood,Grey,One dark
+97,Alice Longbottom,Female,Auror,Unknown ,Unknown ,Unknown,Human,Pure-blood,Blonde,Unknown 
+98,Frank Longbottom,Male,Auror,Gryffindor,Unknown ,Unknown ,Unknown ,Unknown ,Unknown ,Unknown 
+99,Rufus Scrimgeour,Male,Head of Auror Office| Minister for Magic,Unknown ,Unknown ,Non-corporeal,Human,Unknown ,Tawny,Yellowish
+100,Cornelius Oswald Fudge,Male,Minister for Magic,Unknown ,Unknown ,Non-corporeal,Human,Pure-blood or Half-blood,Grey,Unknown 
+101,Barty Crouch Sr.,Male,Head of the Department of International Magical Cooperation,Unknown ,Unknown ,Non-corporeal,Human,Pure-blood,Grey,Unknown 
+102,Amos Diggory,Male,Employee of the Department for the Regulation and Control of Magical Creatures[,Unknown ,Unknown ,Non-corporeal,Human,Pure-blood or half-blood,Brown,Ruddy
+103,Dedalus Diggle,Male,Unknown ,Unknown ,Unknown ,Non-corporeal,Human,Pure-blood or half-blood,Unknown ,Unknown 
+104,Elphias Doge,Male,Special Advisor to the Wizengamot,Unknown ,Unknown ,Non-corporeal,Human,Pure-blood,Silver,Grey/Blue[
+105,Fleur Isabelle Delacour,Female,Part-time at Gringotts Wizarding Bank,Beauxbatons Academy of Magic,Unknown ,Unknown ,Unknown ,Unknown ,Unknown ,Unknown 
+106,Aberforth Dumbledore,Male,Owner and Barman of the Hog's Head Inn,Unknown ,Unknown ,Goat,Human,Half-blood,Grey,Bright Blue
+107,Mundungus Fletcher,Male,Dealer of wizarding artifacts,Unknown ,Unknown ,Non-corporeal,Human,Half-blood[,Ginger,Brown
+108,Sturgis Podmore,Male,Advance Guard,Unknown ,Unknown ,Unknown,Human,Pure-blood or half-blood,Straw-coloured,Brown
+109,Hestia Jones,Female,Advance Guard,Unknown ,Unknown ,Unknown,Human,Pure-blood or half-blood,Black,Unknown 
+110,Marlene McKinnon,Female,Unknown ,Unknown ,Unknown ,Unknown,Human,Unknown ,Red,Brown
+111,Fabian Prewett,Male,Unknown ,Unknown ,Unknown ,Unknown,Human,Pure-blood,Red,Grey
+112,Gideon Prewett,Male,Unknown ,Unknown ,Unknown ,Unknown,Human,Pure-blood,Red ,Dark Grey
+113,Emmeline Vance,Female,Advance Guard,Unknown ,Unknown ,Unknown,Human,Unknown ,Unknown ,Unknown 
+114,Edgar Bones,Male,Unknown ,Hufflepuff,Unknown ,Unknown,Human,Pure-blood or half-blood,Reddish-brown,Grey
+115,Dorcas Meadowes,Female,Unknown ,Unknown ,Unknown ,Unknown,Human,Unknown ,Black,Brown
+116,Benjy Fenwick,Male,Unknown ,Unknown ,Unknown ,Unknown,Human,Unknown ,Black,Black
+117,Madame Olympe Maxime,Female,Headmistress of Beauxbatons Academy of Magic,Beauxbatons Academy of Magic,Unknown ,Unknown,Half-Human/Half-Giant,Part-Human (Half-giant),Brown,Black
+118,Gabrielle Delacour,Female,Unknown ,Beauxbatons Academy of Magic,Unknown ,Unknown,Human ,Quarter-Veela,Silvery-blonde,Unknown 
+119,Viktor Krum,Male,Seeker for the Bulgarian National Quidditch team,Durmstrang Institute,Unknown ,Unknown ,Unknown ,Unknown ,Unknown ,Unknown 
+120,Petunia Dursley,Female,Unknown ,Unknown ,Unknown ,Unknown ,Human ,Muggle,Blonde,Unknown 
+121,Vernon Dursley,Male,Director at Grunnings,Unknown ,Unknown ,Unknown ,Human ,Muggle,Black,Unknown 
+122,Dudley Dursley,Male,Unknown ,Unknown ,Unknown ,Unknown ,Human ,Muggle,Blond,Blue
+123,Marge Dursley,Female,Dog breeder,Unknown ,Unknown ,Unknown ,Human ,Muggle,Grey,Unknown 
+124,Dennis Creevey,Male,Student,Gryffindor,Unknown ,Unknown,Human ,Muggle-born,Mousy brown,Unknown 
+125,Albus Severus Potter,Male,Student,Slytherin,Unknown ,Unknown,Human ,Half-blood,Jet-black,Bright green
+126,Scorpius Hyperion Malfoy,Male,Student,Slytherin,Unknown ,Unknown,Human ,Pure-blood,White blond,Grey
+127,Edward Remus Lupin,Male,Student,Hufflepuff,Unknown ,Unknown,Human (Metamorphmagus),Half-blood,Variable,Variable
+128,James Sirius Potter,Male,Student,Gryffindor,Unknown ,Unknown,Human ,Half-blood,Unknown ,Unknown 
+129,Rose Granger-Weasley,Female,Student,Gryffindor,Unknown ,Unknown,Human ,Half-blood,Red,Unknown 
+130,Argus Filch,Male,Caretaker of Hogwarts,Unknown ,Unknown ,Unknown ,Human ,Squib,Grey,Pale
+131,Poppy Pomfrey,Female,Matron at Hogwarts School,Unknown ,Unknown ,Non-corporeal,Human ,Pure-blood or half-blood,Unknown ,Unknown 
+132,Rolanda Hooch,Female,Flying Instructor at Hogwarts,Unknown ,Unknown ,Non-corporeal,Human ,Unknown ,Grey,Yellow
+133,Irma Pince,Female,Librarian at Hogwarts,Unknown ,Unknown ,Non-corporeal,Human ,Unknown ,Unknown ,Unknown 
+134,Aurora Sinistra,Female,Astronomer at Hogwarts,Unknown ,Unknown ,Unknown,Human ,Pure-blood or half-blood,Dark,Dark
+135,Septima Vector,Female,Professor of Arithmancyat Hogwarts,Unknown ,Unknown ,Unknown,Human ,Unknown ,Black,Unknown 
+136,Wilhelmina Grubbly-Plank,Female,Substitute professor of Care of Magical Creatures at Hogwarts,Unknown ,Unknown ,Non-corporeal,Human ,Unknown ,Grey,Unknown 
+137,Fenrir Greyback,Male,Unknown ,Unknown ,Unknown ,None,Werewolf,Unknown ,Grey,Unknown 
+138,Gellert Grindelwald,Male,Revolutionary leader,Unknown ,Unknown ,Unknown ,Unknown ,Unknown ,Unknown ,Unknown 
+139,Dobby,Male,Malfoy family's house-elf,Unknown ,Unknown ,Unknown ,Unknown ,Unknown ,Unknown ,Unknown 
