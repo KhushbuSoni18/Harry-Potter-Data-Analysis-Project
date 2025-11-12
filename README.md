@@ -1,7 +1,6 @@
-# 🧙‍♂️ Harry Potter Data Analysis Project
+# Relational Database Analysis Project
 
-This is a **data analysis project** based on the Harry Potter universe with SQL project.  
-I explored datasets containing information about characters, spells, wands, and dialogues to uncover fun and interesting insights.
+Dataset inspired by fictional data from the Harry Potter universe, used to demonstrate SQL query optimization and relational modeling.
 
 ## 📊 What I Did
 - Analyzed **characters**: most active characters, wand types, and traits.
